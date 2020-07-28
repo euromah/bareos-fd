@@ -1,0 +1,1 @@
+Katalog bareos-fd.d należy umieścić w lokalizacji /home/przemek na hoście z uruchomionym kontenerem bareos.
